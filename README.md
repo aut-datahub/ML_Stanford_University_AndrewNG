@@ -16,16 +16,19 @@ This repo contain slides, octave implementations and python implementations of t
   - [Lecture 7](./slides/Lecture7.pdf)
   - [Lecture 8](./slides/Lecture8.pdf)
   - [Lecture 9](./slides/Lecture9.pdf)
+  - [Lecture 10](./slides/Lecture10.pdf)
 ## Octave Implementation
   - [assignment 1](<./assignments/assignment 1/machine-learning-ex1>)
   - [assignment 2](<./assignments/assignment 2/machine-learning-ex2>)
   - [assignment 3](<./assignments/assignment 3/machine-learning-ex3>)
   - [assignment 4](<./assignments/assignment 4/machine-learning-ex4>)
+  - [assignment 5](<./assignments/assignment 5/machine-learning-ex5>)
 ## Python Implementation
   - [assignment 1](./py-assignments/Exercise1)
   - [assignment 2](./py-assignments/Exercise2)
   - [assignment 3](./py-assignments/Exercise3)
   - [assignment 4](./py-assignments/Exercise4)
+  - [assignment 5](./py-assignments/Exercise5)
   
 # Thanks
   - Special thanks to [@dibgerge](https://github.com/dibgerge) because his fantastic repo [here](https://github.com/dibgerge/ml-coursera-python-assignments).
