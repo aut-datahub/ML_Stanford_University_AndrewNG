@@ -32,6 +32,7 @@ This repo contain slides, octave implementations and python implementations of t
   - [assignment 3](./py-assignments/Exercise3)
   - [assignment 4](./py-assignments/Exercise4)
   - [assignment 5](./py-assignments/Exercise5)
+  - [assignment 6](./py-assignments/Exercise6)
   
 # Thanks
   - Special thanks to [@dibgerge](https://github.com/dibgerge) because his fantastic repo [here](https://github.com/dibgerge/ml-coursera-python-assignments).
