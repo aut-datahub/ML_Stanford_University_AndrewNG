@@ -19,6 +19,8 @@ This repo contain slides, octave implementations and python implementations of t
   - [Lecture 10](./slides/Lecture10.pdf)
   - [Lecture 11](./slides/Lecture11.pdf)
   - [Lecture 12](./slides/Lecture12.pdf)
+  - [Lecture 13](./slides/Lecture13.pdf)
+  - [Lecture 14](./slides/Lecture14.pdf)
 ## Octave Implementation
   - [assignment 1](<./assignments/assignment 1/machine-learning-ex1>)
   - [assignment 2](<./assignments/assignment 2/machine-learning-ex2>)
