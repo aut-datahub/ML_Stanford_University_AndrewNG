@@ -28,6 +28,7 @@ This repo contain slides, octave implementations and python implementations of t
   - [assignment 4](<./assignments/assignment 4/machine-learning-ex4>)
   - [assignment 5](<./assignments/assignment 5/machine-learning-ex5>)
   - [assignment 6](<./assignments/assignment 6/machine-learning-ex6>)
+  - [assignment 7](<./assignments/assignment 7/machine-learning-ex7>)
 ## Python Implementation
   - [assignment 1](./py-assignments/Exercise1)
   - [assignment 2](./py-assignments/Exercise2)
